@@ -1,3 +1,8 @@
+HI ALl. Guys Here need to change PATH accordingly your path.
+
+
+
+
 hostnamectl set-hostname buildserver.com
 exec bash
 
